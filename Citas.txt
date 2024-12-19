@@ -1,0 +1,29 @@
+[
+    {
+        "appointmentCode": 1000,
+        "clientId": 111480335,
+        "date": "29/02/2024",
+        "doctorId": 701670394,
+        "id": 0,
+        "observation": "cita",
+        "time": "11:50 AM"
+    },
+    {
+        "appointmentCode": 1001,
+        "clientId": 111480335,
+        "date": "20/05/2024",
+        "doctorId": 701670394,
+        "id": 0,
+        "observation": "2",
+        "time": "10:10 AM"
+    },
+    {
+        "appointmentCode": 1002,
+        "clientId": 111480335,
+        "date": "02/02/2024",
+        "doctorId": 701670394,
+        "id": 0,
+        "observation": "lkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjhjhgjhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+        "time": "02:02 PM"
+    }
+]

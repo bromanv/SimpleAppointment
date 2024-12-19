@@ -1,0 +1,8 @@
+[
+    {
+        "firstName": "1",
+        "id": 701670394,
+        "lastName": "2",
+        "speciality": 3
+    }
+]

@@ -1,0 +1,867 @@
+# depslib dependency file v1.0
+1720575578 source:c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\src\constants.cpp
+	"constants.h"
+
+1720575580 c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\include\constants.h
+	<string>
+
+1721526447 source:c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\src\utils.cpp
+	"utils.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<iomanip>
+	<locale>
+	<codecvt>
+	<sstream>
+
+1721526136 c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\include\utils.h
+	<iostream>
+	<vector>
+	<string>
+	<iomanip>
+	<fstream>
+	<regex>
+
+1721527241 source:c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\src\menu.cpp
+	"menu.h"
+	"constants.h"
+	"utils.h"
+	<iostream>
+	<map>
+	<functional>
+	<cstdlib>
+	<limits>
+
+1721508123 c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\include\menu.h
+	<iostream>
+	<map>
+	<functional>
+	<cstdlib>
+	"ResourceManager.h"
+
+1721537565 source:c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\main.cpp
+	"menu.h"
+	"services/doctorService.h"
+	"services/clientService.h"
+	"services/appointmentService.h"
+	"constants.h"
+	"utils.h"
+	"ResourceManager.h"
+	<iostream>
+	<map>
+	<functional>
+	<cstdlib>
+	<locale.h>
+	<stdlib.h>
+	<stdio.h>
+	<wchar.h>
+	<stdexcept>
+	<winnls.h>
+	<windows.h>
+
+1720575335 source:c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\src\doctor.cpp
+	"Doctor.h"
+	"Constants.h"
+	<stdexcept>
+
+1721504561 c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\include\doctor.h
+	"person.h"
+	<string>
+
+1721181871 source:c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\src\doctorservice.cpp
+	"DoctorService.h"
+	"Constants.h"
+	"Utils.h"
+
+1721504188 c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\include\doctorservice.h
+	"ServiceBase.h"
+	"Doctor.h"
+
+1720575246 source:c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\src\client.cpp
+	"Client.h"
+	"Constants.h"
+	<stdexcept>
+
+1720575389 c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\include\client.h
+	"person.h"
+	<string>
+
+1721504191 c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\include\servicebase.h
+	"Constants.h"
+	<iostream>
+	<fstream>
+	<string>
+
+1720574364 c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\include\person.h
+	<string>
+
+1720575360 source:c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\src\person.cpp
+	"Person.h"
+	"Constants.h"
+	<stdexcept>
+
+1720575498 source:c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\src\servicebase.cpp
+	"serviceBase.h"
+
+1721181916 source:c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\src\clientservice.cpp
+	"ClientService.h"
+	"Constants.h"
+	"Utils.h"
+
+1721504283 c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\include\clientservice.h
+	"services/serviceBase.h"
+	"Constants.h"
+	"entities/client.h"
+
+1721528104 source:c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\src\resourcemanager.cpp
+	"ResourceManager.h"
+	<fstream>
+	<nlohmann/json.hpp>
+	<iostream>
+	<string>
+
+1721527166 c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\include\resourcemanager.h
+	<string>
+	<unordered_map>
+	<iostream>
+	<cstdlib>
+
+1721511837 c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\include\nlohmann\json.hpp
+	<algorithm>
+	<cstddef>
+	<functional>
+	<initializer_list>
+	<iosfwd>
+	<iterator>
+	<memory>
+	<string>
+	<utility>
+	<vector>
+	<utility>
+	<algorithm>
+	<array>
+	<forward_list>
+	<iterator>
+	<map>
+	<string>
+	<tuple>
+	<type_traits>
+	<unordered_map>
+	<utility>
+	<valarray>
+	<cstddef>
+	<exception>
+	<numeric>
+	<stdexcept>
+	<string>
+	<vector>
+	<array>
+	<cstddef>
+	<cstdint>
+	<string>
+	<utility>
+	<type_traits>
+	<stdint.h>
+	<stdint.h>
+	<version>
+	<cstdlib>
+	<cassert>
+	<compare>
+	<cstddef>
+	<array>
+	<cstddef>
+	<type_traits>
+	<utility>
+	<limits>
+	<type_traits>
+	<utility>
+	<tuple>
+	<string>
+	<iterator>
+	<cstdint>
+	<map>
+	<memory>
+	<string>
+	<vector>
+	<cstring>
+	<string>
+	<utility>
+	<experimental/filesystem>
+	<filesystem>
+	<algorithm>
+	<iterator>
+	<string>
+	<tuple>
+	<type_traits>
+	<utility>
+	<valarray>
+	<vector>
+	<cstddef>
+	<iterator>
+	<string>
+	<tuple>
+	<utility>
+	<ranges>
+	<cstdint>
+	<tuple>
+	<utility>
+	<cstdint>
+	<cstddef>
+	<functional>
+	<algorithm>
+	<array>
+	<cmath>
+	<cstddef>
+	<cstdint>
+	<cstdio>
+	<cstring>
+	<iterator>
+	<limits>
+	<string>
+	<utility>
+	<vector>
+	<array>
+	<cstddef>
+	<cstring>
+	<iterator>
+	<memory>
+	<numeric>
+	<string>
+	<type_traits>
+	<utility>
+	<cstdio>
+	<istream>
+	<cstddef>
+	<string>
+	<utility>
+	<vector>
+	<array>
+	<clocale>
+	<cstddef>
+	<cstdio>
+	<cstdlib>
+	<initializer_list>
+	<string>
+	<utility>
+	<vector>
+	<cstdint>
+	<utility>
+	<string>
+	<cmath>
+	<cstdint>
+	<functional>
+	<string>
+	<utility>
+	<vector>
+	<cstddef>
+	<limits>
+	<iterator>
+	<type_traits>
+	<cstddef>
+	<iterator>
+	<utility>
+	<type_traits>
+	<algorithm>
+	<cctype>
+	<cerrno>
+	<cstdlib>
+	<iosfwd>
+	<limits>
+	<numeric>
+	<string>
+	<utility>
+	<vector>
+	<initializer_list>
+	<utility>
+	<algorithm>
+	<array>
+	<map>
+	<cmath>
+	<cstdint>
+	<cstring>
+	<limits>
+	<string>
+	<utility>
+	<vector>
+	<algorithm>
+	<cstddef>
+	<iterator>
+	<memory>
+	<string>
+	<vector>
+	<ios>
+	<ostream>
+	<algorithm>
+	<array>
+	<clocale>
+	<cmath>
+	<cstddef>
+	<cstdint>
+	<cstdio>
+	<limits>
+	<string>
+	<iomanip>
+	<type_traits>
+	<utility>
+	<array>
+	<cmath>
+	<cstdint>
+	<cstring>
+	<limits>
+	<type_traits>
+	<functional>
+	<initializer_list>
+	<iterator>
+	<memory>
+	<stdexcept>
+	<type_traits>
+	<utility>
+	<vector>
+	<any>
+	<string_view>
+
+1721537393 c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\include\services\servicebase.h
+	"ResourceManager.h"
+	<iostream>
+	<fstream>
+	<string>
+	<nlohmann/json.hpp>
+
+1721539609 c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\include\entities\client.h
+	"person.h"
+	<string>
+	<cstdlib>
+	<nlohmann/json.hpp>
+
+1721539692 c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\include\entities\person.h
+	"entitybase.h"
+	<string>
+	<nlohmann/json.hpp>
+
+1721507664 source:c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\src\services\servicebase.cpp
+	"services/serviceBase.h"
+
+1721537282 source:c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\src\entities\client.cpp
+	"entities/client.h"
+	"ResourceManager.h"
+	<stdexcept>
+
+1721537282 source:c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\src\entities\person.cpp
+	"entities/person.h"
+	"ResourceManager.h"
+	<stdexcept>
+
+1721537477 source:c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\src\services\clientservice.cpp
+	"services/clientService.h"
+	"ResourceManager.h"
+	"utils.h"
+	<iostream>
+
+1721537282 source:c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\src\entities\doctor.cpp
+	"entities/doctor.h"
+	"ResourceManager.h"
+	<stdexcept>
+
+1721539607 c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\include\entities\doctor.h
+	"person.h"
+	<string>
+	<cstdlib>
+	<nlohmann/json.hpp>
+
+1721537540 source:c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\src\services\doctorservice.cpp
+	"services/doctorService.h"
+	"ResourceManager.h"
+	"utils.h"
+	<iostream>
+
+1721537437 c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\include\services\doctorservice.h
+	"serviceBase.h"
+	"entities/doctor.h"
+	<cstdlib>
+
+1721537445 c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\include\services\clientservice.h
+	"serviceBase.h"
+	"entities/client.h"
+	<cstdlib>
+
+1721537184 c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\include\entities\entitybase.h
+	<string>
+	<nlohmann/json.hpp>
+
+1721537452 c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\include\services\appointmentservice.h
+	"serviceBase.h"
+	"appointment.h"
+	"fileReaderService.h"
+	"client.h"
+	"doctor.h"
+	<vector>
+
+1721539594 c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\include\entities\appointment.h
+	"entitybase.h"
+	<string>
+	<nlohmann/json.hpp>
+
+1721537282 source:c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\src\entities\appointment.cpp
+	"entities/appointment.h"
+
+1721537282 source:c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\src\entities\entitybase.cpp
+	"entities/entitybase.h"
+	"ResourceManager.h"
+
+1721537493 source:c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\src\services\appointmentservice.cpp
+	"services/appointmentService.h"
+	"ResourceManager.h"
+	"utils.h"
+	"fileReaderService.h"
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<algorithm>
+
+1721522632 c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\include\utf.h
+	<string>
+
+1721522908 source:c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\src\utf.cpp
+	"utf.h"
+	<codecvt>
+	<iterator>
+	<locale>
+	<string>
+	<vector>
+
+1721537428 c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\include\services\filereaderservice.h
+	<vector>
+	<string>
+	<fstream>
+	<nlohmann/json.hpp>
+	"entities/client.h"
+	"entities/doctor.h"
+	"entities/appointment.h"
+
+1721539502 source:c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\src\services\filereaderservice.cpp
+	"services/fileReaderService.h"
+	<fstream>
+	<stdexcept>
+	<nlohmann/json.hpp>
+
+1721585119 source:c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\00831_proyecto2\main.cpp
+	"menu.h"
+	"services/doctorService.h"
+	"services/clientService.h"
+	"services/appointmentService.h"
+	"services/reportservice.h"
+	"constants.h"
+	"utils.h"
+	"ResourceManager.h"
+	<iostream>
+	<map>
+	<functional>
+	<cstdlib>
+	<locale.h>
+	<stdlib.h>
+	<stdio.h>
+	<wchar.h>
+	<stdexcept>
+	<winnls.h>
+	<windows.h>
+
+1721508123 c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\00831_proyecto2\include\menu.h
+	<iostream>
+	<map>
+	<functional>
+	<cstdlib>
+	"ResourceManager.h"
+
+1721527166 c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\00831_proyecto2\include\resourcemanager.h
+	<string>
+	<unordered_map>
+	<iostream>
+	<cstdlib>
+
+1721540336 c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\00831_proyecto2\include\services\doctorservice.h
+	"constants.h"
+	"serviceBase.h"
+	"entities/doctor.h"
+	<cstdlib>
+
+1721548707 c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\00831_proyecto2\include\services\servicebase.h
+	"ResourceManager.h"
+	"inull.h"
+	<iostream>
+	<fstream>
+	<string>
+	<nlohmann/json.hpp>
+
+1721511837 c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\00831_proyecto2\include\nlohmann\json.hpp
+	<algorithm>
+	<cstddef>
+	<functional>
+	<initializer_list>
+	<iosfwd>
+	<iterator>
+	<memory>
+	<string>
+	<utility>
+	<vector>
+	<utility>
+	<algorithm>
+	<array>
+	<forward_list>
+	<iterator>
+	<map>
+	<string>
+	<tuple>
+	<type_traits>
+	<unordered_map>
+	<utility>
+	<valarray>
+	<cstddef>
+	<exception>
+	<numeric>
+	<stdexcept>
+	<string>
+	<vector>
+	<array>
+	<cstddef>
+	<cstdint>
+	<string>
+	<utility>
+	<type_traits>
+	<stdint.h>
+	<stdint.h>
+	<version>
+	<cstdlib>
+	<cassert>
+	<compare>
+	<cstddef>
+	<array>
+	<cstddef>
+	<type_traits>
+	<utility>
+	<limits>
+	<type_traits>
+	<utility>
+	<tuple>
+	<string>
+	<iterator>
+	<cstdint>
+	<map>
+	<memory>
+	<string>
+	<vector>
+	<cstring>
+	<string>
+	<utility>
+	<experimental/filesystem>
+	<filesystem>
+	<algorithm>
+	<iterator>
+	<string>
+	<tuple>
+	<type_traits>
+	<utility>
+	<valarray>
+	<vector>
+	<cstddef>
+	<iterator>
+	<string>
+	<tuple>
+	<utility>
+	<ranges>
+	<cstdint>
+	<tuple>
+	<utility>
+	<cstdint>
+	<cstddef>
+	<functional>
+	<algorithm>
+	<array>
+	<cmath>
+	<cstddef>
+	<cstdint>
+	<cstdio>
+	<cstring>
+	<iterator>
+	<limits>
+	<string>
+	<utility>
+	<vector>
+	<array>
+	<cstddef>
+	<cstring>
+	<iterator>
+	<memory>
+	<numeric>
+	<string>
+	<type_traits>
+	<utility>
+	<cstdio>
+	<istream>
+	<cstddef>
+	<string>
+	<utility>
+	<vector>
+	<array>
+	<clocale>
+	<cstddef>
+	<cstdio>
+	<cstdlib>
+	<initializer_list>
+	<string>
+	<utility>
+	<vector>
+	<cstdint>
+	<utility>
+	<string>
+	<cmath>
+	<cstdint>
+	<functional>
+	<string>
+	<utility>
+	<vector>
+	<cstddef>
+	<limits>
+	<iterator>
+	<type_traits>
+	<cstddef>
+	<iterator>
+	<utility>
+	<type_traits>
+	<algorithm>
+	<cctype>
+	<cerrno>
+	<cstdlib>
+	<iosfwd>
+	<limits>
+	<numeric>
+	<string>
+	<utility>
+	<vector>
+	<initializer_list>
+	<utility>
+	<algorithm>
+	<array>
+	<map>
+	<cmath>
+	<cstdint>
+	<cstring>
+	<limits>
+	<string>
+	<utility>
+	<vector>
+	<algorithm>
+	<cstddef>
+	<iterator>
+	<memory>
+	<string>
+	<vector>
+	<ios>
+	<ostream>
+	<algorithm>
+	<array>
+	<clocale>
+	<cmath>
+	<cstddef>
+	<cstdint>
+	<cstdio>
+	<limits>
+	<string>
+	<iomanip>
+	<type_traits>
+	<utility>
+	<array>
+	<cmath>
+	<cstdint>
+	<cstring>
+	<limits>
+	<type_traits>
+	<functional>
+	<initializer_list>
+	<iterator>
+	<memory>
+	<stdexcept>
+	<type_traits>
+	<utility>
+	<vector>
+	<any>
+	<string_view>
+
+1721596759 c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\00831_proyecto2\include\entities\doctor.h
+	"person.h"
+	<string>
+	<cstdlib>
+	<nlohmann/json.hpp>
+
+1721578660 c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\00831_proyecto2\include\entities\person.h
+	"entitybase.h"
+	<string>
+	<nlohmann/json.hpp>
+
+1721545645 c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\00831_proyecto2\include\entities\entitybase.h
+	"inull.h"
+	<string>
+	<nlohmann/json.hpp>
+
+1721540286 c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\00831_proyecto2\include\services\clientservice.h
+	"constants.h"
+	"serviceBase.h"
+	"entities/client.h"
+	<cstdlib>
+
+1721596761 c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\00831_proyecto2\include\entities\client.h
+	"person.h"
+	<string>
+	<cstdlib>
+	<nlohmann/json.hpp>
+
+1721553059 c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\00831_proyecto2\include\services\appointmentservice.h
+	"constants.h"
+	"serviceBase.h"
+	"appointment.h"
+	"fileReaderService.h"
+	"client.h"
+	"doctor.h"
+	<vector>
+
+1721596758 c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\00831_proyecto2\include\entities\appointment.h
+	"entitybase.h"
+	<string>
+	<nlohmann/json.hpp>
+
+1721580159 c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\00831_proyecto2\include\services\filereaderservice.h
+	<vector>
+	<string>
+	<fstream>
+	<nlohmann/json.hpp>
+	"entities/client.h"
+	"entities/doctor.h"
+	"entities/appointment.h"
+
+1721540517 c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\00831_proyecto2\include\constants.h
+	<string>
+
+1721583871 c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\00831_proyecto2\include\utils.h
+	<iostream>
+	<vector>
+	<string>
+	<iomanip>
+	<fstream>
+	<regex>
+
+1721579976 source:c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\00831_proyecto2\src\constants.cpp
+	"constants.h"
+
+1721547708 source:c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\00831_proyecto2\src\entities\appointment.cpp
+	"entities/appointment.h"
+
+1721547776 source:c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\00831_proyecto2\src\entities\client.cpp
+	"entities/client.h"
+	"ResourceManager.h"
+	<stdexcept>
+
+1721547776 source:c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\00831_proyecto2\src\entities\doctor.cpp
+	"entities/doctor.h"
+	"ResourceManager.h"
+	<stdexcept>
+
+1721545613 source:c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\00831_proyecto2\src\entities\entitybase.cpp
+	"entities/entitybase.h"
+	"ResourceManager.h"
+
+1721578952 source:c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\00831_proyecto2\src\entities\person.cpp
+	"entities/person.h"
+	"ResourceManager.h"
+	<stdexcept>
+
+1721527241 source:c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\00831_proyecto2\src\menu.cpp
+	"menu.h"
+	"constants.h"
+	"utils.h"
+	<iostream>
+	<map>
+	<functional>
+	<cstdlib>
+	<limits>
+
+1721528104 source:c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\00831_proyecto2\src\resourcemanager.cpp
+	"ResourceManager.h"
+	<fstream>
+	<nlohmann/json.hpp>
+	<iostream>
+	<string>
+
+1721537477 source:c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\00831_proyecto2\src\services\clientservice.cpp
+	"services/clientService.h"
+	"ResourceManager.h"
+	"utils.h"
+	<iostream>
+
+1721537540 source:c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\00831_proyecto2\src\services\doctorservice.cpp
+	"services/doctorService.h"
+	"ResourceManager.h"
+	"utils.h"
+	<iostream>
+
+1721580210 source:c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\00831_proyecto2\src\services\filereaderservice.cpp
+	"services/fileReaderService.h"
+	<fstream>
+	<stdexcept>
+	<nlohmann/json.hpp>
+
+1721507664 source:c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\00831_proyecto2\src\services\servicebase.cpp
+	"services/serviceBase.h"
+
+1721584095 source:c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\00831_proyecto2\src\utils.cpp
+	"utils.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<iomanip>
+	<locale>
+	<codecvt>
+	<sstream>
+
+1721553059 source:c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\00831_proyecto2\src\services\appointmentservice.cpp
+	"services/appointmentService.h"
+	"services/fileReaderService.h"
+	"constants.h"
+	"ResourceManager.h"
+	"utils.h"
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<algorithm>
+	<stdexcept>
+	<nlohmann/json.hpp>
+
+1721545506 c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\00831_proyecto2\include\entities\inull.h
+
+1721545506 source:c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\00831_proyecto2\src\entities\inull.cpp
+	"inull.h"
+
+1721585650 c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\00831_proyecto2\include\services\reportservice.h
+	"entities/appointment.h"
+	"entities/client.h"
+	"entities/doctor.h"
+	<vector>
+	<string>
+
+1721588367 source:c:\users\byron\onedrive - universidad estatal a distancia\uned\00831 - introduccion a la programacion\tareas\proyecto2\00831_proyecto2\src\services\reportservice.cpp
+	"reportService.h"
+	"services/fileReaderService.h"
+	"ResourceManager.h"
+	"constants.h"
+	"utils.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	<nlohmann/json.hpp>
+	<iomanip>
+	<cctype>
+
